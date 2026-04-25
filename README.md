@@ -286,7 +286,7 @@ mysql -u root -p autotrack < schema/autotrack.sql
 Built and maintained as the lead backend developer on a multi-developer team. Responsible for system architecture, RBAC design, AWS integration, report engine, API layer, and multi-country financial modules.
 
 **Kashif Umar**
-[linkedin.com/in/kashif-umar](https://www.linkedin.com/in/kashif-umar/)
+[linkedin.com/in/kashif-umar](https://www.linkedin.com/in/kashif-umar/)  
 [x.com/kashif_umar](https://x.com/kashif_umar/)
 
 ---
