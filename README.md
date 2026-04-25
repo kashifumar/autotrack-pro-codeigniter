@@ -287,6 +287,7 @@ Built and maintained as the lead backend developer on a multi-developer team. Re
 
 **Kashif Umar**
 [linkedin.com/in/kashif-umar](https://www.linkedin.com/in/kashif-umar/)
+[x.com/kashif_umar](https://x.com/kashif_umar/)
 
 ---
 
